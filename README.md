@@ -3,9 +3,12 @@
   <p align="center">
   <img width="1000" height="500" src="https://github.com/hilmikilickaya/fetch_rewards/blob/master/img/Diagram.png">
   </p>
+  
 ## Second: Write a query that directly answers a predetermined question from a business stakeholder
+
 #### What are the top 5 brands by receipts scanned for most recent month?
- - I used SQLite dialect for my query. There was an incosistency between tables to join. There was no matching ids between brands and receipts tables. My assumption was the ids are matching.
+
+ - I used SQLite dialect for my query. 
   
   ```sql
   SELECT  strftime("%Y-%m", r.dateScanned) AS month, b.name, COUNT(*) AS total
