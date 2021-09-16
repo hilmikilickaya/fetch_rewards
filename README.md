@@ -70,14 +70,5 @@
 - Missing values in all three tables
 - Wrong data types
 - There are some receipts with multiplication entries
-## Fourth: Communicate with Stakeholders
-Hi [name],
 
-I'm currently working on analyzing brands, receipts, and users' data to find trends, top brands, monthly spending, etc. If it is possible I would like to ask if there is more available data. I ask because I noticed that there are some quality issues with the data such as missing information which would affect the results. Some users' data have a lot of duplicated information which might lead to biased results. Providing additional historical and demographic user data would help me to identify monthly comparisons and trends within different groups which would be very beneficial to your company.
-
-If you have any questions please let me know. I look forward to hearing from you.
-
-Best,
-
-Hilmi Kilickaya
 
